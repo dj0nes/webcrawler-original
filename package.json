@@ -1,0 +1,16 @@
+{
+  "name": "ge-web-crawler",
+  "version": "1.0.0",
+  "description": "Web crawler project written in javascript for node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha '*.spec.js'",
+    "start": "node app.js"
+  },
+  "author": "Dillon Jones",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

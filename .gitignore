@@ -1,0 +1,15 @@
+node_modules/
+*.sublime-*
+*.log
+*.orig
+*.log.*
+.idea/
+server/public/less/**/*.css
+test/client/results
+test/server/results≈
+xunit.xml
+jshint-result.xml
+*.DS_Store
+.vscode
+.npmrc
+*-ugly*

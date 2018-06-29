@@ -1,0 +1,7 @@
+Why did you use a closure in the utility file? Why not es6?
+Presenter function seems unnecessarily complicated. Why did you choose to write it this way? How would you rework it?
+
+Testing
+What type of tests did you write in spec.js? (Unit, acceptance, functional)
+Why did you choose to write that kind of test?
+What would you add or change if you had more time?
